@@ -1,0 +1,10 @@
+# TelegramObhodDPI
+
+TelegramObhodDPI возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа.
+
+TelegramObhodDPI возвращает фото, кружочки и звонки Telegram, когда провайдер режет медиа. обход блокировки Telegram, Telegram не отправляет фото, Telegram звонки не работают, zapret Telegram. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/Tributarylojump/TelegramObhodDPI/releases/latest
+Код: https://github.com/Tributarylojump/TelegramObhodDPI
+Основа: https://github.com/bol-van/zapret
+Страница: https://github.com/Tributarylojump/TelegramObhodDPI
